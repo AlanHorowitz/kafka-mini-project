@@ -30,7 +30,7 @@
 
 <br>
 
-## Use kafka-console-conmsumer to observe legit stream.
+## Use kafka-console-consumer to observe legit stream.
 
 <br>
 
